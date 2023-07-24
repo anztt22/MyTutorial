@@ -29,5 +29,6 @@
 .asset-container .step-asset[data-v-2786be2a] img {
    border: 1px solid #aaa !important;
    border-radius: 10px !important;
+   height: auto;
 }
 
