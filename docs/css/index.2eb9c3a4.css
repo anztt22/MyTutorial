@@ -17,16 +17,16 @@
 .button-cta[data-v-c9c81868] {
    border-radius: 18px !important;
 }
-.nav-title[data-v-0c761cd5] {
+.nav-title[data-v-5c0521d3] {
    font-weight: 600 !important;
 }
-.step[data-v-295730d0]:before {
+.step[data-v-eb45ec92]:before {
    background-color: #4ca9ff !important;
    border: 1px solid #4ca9ff !important;
    border-top-left-radius: 10px !important;
    border-bottom-left-radius: 10px !important;
 }
-.asset-container .step-asset[data-v-25d30c2c] img {
+.asset-container .asset-container[data-v-2786be2a] img {
    border: 1px solid #aaa !important;
    border-radius: 10px !important;
 }
