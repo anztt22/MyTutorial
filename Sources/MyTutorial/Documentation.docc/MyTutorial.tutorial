@@ -1,0 +1,34 @@
+@Tutorials(name: "PretendCo Training") {
+    @Intro(title: "Writing Secure Apps") {
+        In these tutorials you will learn to add a few secure measures to your apps.
+        
+        @Image(source: background.png, alt: "Background image of people gathered around a computer.")
+    }
+    
+    @Chapter(name: "Getting Started") {
+         Setup your work area ready for the following tutorials.
+         @Image(source: getting_started.png, alt: "A download icon.")
+         @TutorialReference(tutorial: "doc:Tutorial1")
+     }
+    @Chapter(name: "App Privacy") {
+            Enhance an existing app to include additional privacy when moving between active and inactive states.
+            @Image(source: privacy.png, alt: "A privacy icon.")
+            @TutorialReference(tutorial: "doc:Tutorial2")
+    }
+    
+    @Resources {
+        Explore more resources for learning about Deployment.
+        
+        @Videos() {
+            Recommended WWDC Videos:
+            
+            - [Keynote](https://developer.apple.com/videos/play/wwdc2024/101/)
+            - [What’s new in device management](https://developer.apple.com/videos/play/wwdc2024/10143/)
+            - [Streamline sign-in with passkey upgrades and credential managers](https://developer.apple.com/videos/play/wwdc2024/10125/)
+            - [What’s new in privacy](https://developer.apple.com/videos/play/wwdc2024/10123/)
+            }
+        @Documentation() {
+                - Other resources: <doc:Resources>
+        }
+    }
+}
